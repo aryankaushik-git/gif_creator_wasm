@@ -1,6 +1,6 @@
 # Video To Gif maker using React with Wasm
 
-![Video to gif](https://github.com/aryankaushik-git/outreachy/blob/main/aryankaushik/media/gif_creator%20(1).png)
+![Video to gif](https://github.com/aryankaushik-git/gif_creator_wasm/blob/main/gif_creator.png)
 
 This Project Converts a video file to an animated GIF with Web Assembly. 
 
