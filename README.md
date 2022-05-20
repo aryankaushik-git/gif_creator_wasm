@@ -22,3 +22,4 @@ This app will only work on the browsers which support SharedArrayBuffer.
 Try to install previous version of browsers if you are unable to build this app.
 
 Check [Link](https://www.wasm.builders/aryank21/gif-creator-using-wasm-27fl), To create on your own!
+
